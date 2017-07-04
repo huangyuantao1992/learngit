@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 Stash line.
-My own modification.
+Modified by collegue huang and collegure yuan.
